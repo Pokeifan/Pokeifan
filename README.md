@@ -1,8 +1,6 @@
-👋 Bienvenue sur mon profil GitHub !
+👋 Bienvenue sur mon profil GitHub.
 
-🚀 À propos de moi
-
-Bonjour ! Je suis Lucca GRAFFEILLE, je suis étudiant en développement
+Bonjour ! Je suis Lucca GRAFFEILLE, je suis étudiant en développement.
 
 🔧 Technologies & Outils
 
