@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Bienvenue sur mon profil GitHub !
 
-<!--
-**Pokeifan/Pokeifan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 À propos de moi
 
-Here are some ideas to get you started:
+Bonjour ! Je suis Lucca GRAFFEILLE, je suis étudiant en développement
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technologies & Outils
+
+🖥️ Langages : JavaScript, Java, MySQL, HTML, CSS, Python
+
+🛠️ Frameworks & Librairies : Node.js, Angular
+
+📦 Outils & DevOps : Git, Github
+
+🎨 Design & UI/UX : Figma
+
+📌 Projets en vedette
+
+🔹 Nom du projet - Courte description de ton projet.
+🔹 Nom du projet - Courte description de ton projet.
+
+📫 Me contacter
+
+📧 Email : lucca.graffeille.pro@gmail.com 
+🌐 Portfolio : 
+
