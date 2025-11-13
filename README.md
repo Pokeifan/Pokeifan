@@ -11,5 +11,4 @@ Bonjour ! Je suis Lucca GRAFFEILLE, je suis un étudiant en informatique dans le
 
 ## 📫 Me contacter
 📧 Email : lucca.graffeille.pro@gmail.com  
-🌐 Portfolio : https://pokeifan.github.io/portfolio/ 
 
